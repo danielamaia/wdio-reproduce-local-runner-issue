@@ -1,7 +1,7 @@
 Steps to reproduce: 
 
-* npm i
-* npm run test
+* `npm i`
+* `npm run test`
 
 
 Expected: test execution finishes and process exits.
