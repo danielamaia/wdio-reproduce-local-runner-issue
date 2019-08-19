@@ -1,0 +1,17 @@
+{
+  "name": "wdio-issue-reproduce",
+  "version": "1.0.0",
+  "description": "minimal reproducing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^5.12.1",
+    "@wdio/local-runner": "^5.12.1",
+    "@wdio/mocha-framework": "^5.12.1",
+    "@wdio/spec-reporter": "^5.12.1",
+    "chromedriver": "^76.0.0",
+    "wdio-chromedriver-service": "^5.0.2"
+  }
+}
